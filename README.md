@@ -3,8 +3,6 @@ you should use the client supporting ss with v2ray-plugin, like Matsuri on Andro
 
 the ss configuration on Matsuri is like the following image： 
 
-
-![image](https://github.com/Mrzyang/doprax_ss/blob/master/Matsuri_configuration.png)
-
+<img src="https://github.com/Mrzyang/doprax_ss/blob/master/Matsuri_configuration.png" width="50%">
 
 then you can get the ss link by Matsuri and import to clash.
