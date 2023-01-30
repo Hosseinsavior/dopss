@@ -1,6 +1,6 @@
 {
     "server": "0.0.0.0",
-    "server_port": 9000,
+    "server_port": 80,
     "method": "aes-256-gcm",
     "timeout": 300,
     "password": "f4282a60-df15-4c66-9071-c44fd4f88fcb",
